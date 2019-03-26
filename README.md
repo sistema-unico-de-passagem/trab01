@@ -8,14 +8,14 @@ Integrantes do grupo<br>
 Jack Johnson Cummings Junior :info.jackjr@gmail.com<br>
 Lucas Campista da Silva :lukascampista@hotmail.com<br>
 Ágape Spagnol Rocha Campos: agape_spagnol@hotmail.com<br>
+Matheus Aguiar Ximenes: aguiar007ax@gmail.com<br>
 
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
 <br>e motivação da escolha realizada. <br>
 
-> A empresa "Devcom Projetos" visa colaborar com desenvolvimento de projetos para uma sociedade melhor. Sabendo-se dos desafios para gerenciar projetos dentro de uma empresa e visando unir as informações relativas a funcionários, departamentos e projetos em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Devcom" tem como objetivo gerenciar todas as informações ao desenvolvimento das atividades de projetos em diversas localidades do país. Para realizar suas operações adequadamente e empresa necessita que sistema que armazene informações relativas aos Projetos, Departamentos e Empregados, além de também armazenar dados sobre  Dependentes e Históricos de Salário dos empregados. O sistema deverá gerar um conjunto de relatórios que por sua vez atenderá os anseios da empresa em questão.
- 
+> A empresa "Brutec" tem como objetivo colaborar com as empresas de transportes públicos e privados para melhorar o pagamento de suas passagens por um meu único de pagamento com a utilização do NFC para a melhor facilidade de seus usuários. Com esse sistema SUP a empresa "Brutec" vai ter um melhor gerenciamento das contas e passagens pagas para cada empresa. O sistema SUP irá armazenar os dados dos seus usuários tais como senha, login, cpf entre outros para garantir a segurança de suas contas e NFCs que seus usuários possam ter.
 
 ### 3.MINI-MUNDO Novo<br>
 
