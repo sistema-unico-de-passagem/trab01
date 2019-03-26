@@ -34,6 +34,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Mobile.pdf)
+
+https://github.com/sistema-unico-de-passagem/trab01/blob/master/Sistema%20%C3%9Anico%20de%20Passagens.pdf
+
 #### 4.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
