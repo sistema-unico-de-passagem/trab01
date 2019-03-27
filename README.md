@@ -43,7 +43,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
 
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/sistema-unico-de-passagem/trab01/blob/master/arquivos/%20TABELA%20DE%20DADOS%20DO%20SISTEMA.xlsxraw=true "Tabela - Empresa Brutec")
+![Exemplo de Tabela de dados da Empresa Brutec](https://github.com/sistema-unico-de-passagem/trab01/blob/master/arquivos/%20TABELA%20DE%20DADOS%20DO%20SISTEMA.xlsx "Tabela - Empresa Brutec")
     
 >## Marco de Entrega 01 em: (06/09/2018)<br>
 
