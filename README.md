@@ -12,10 +12,8 @@ Matheus Aguiar Ximenes: aguiar007ax@gmail.com<br>
 
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
-<br>e motivação da escolha realizada. <br>
 
-> A empresa "Brutec" tem como objetivo colaborar com as empresas de transportes públicos e privados para melhorar o pagamento de suas passagens por um meu único de pagamento com a utilização do NFC para a melhor facilidade de seus usuários. Com esse sistema SUP a empresa "Brutec" vai ter um melhor gerenciamento das contas e passagens pagas para cada empresa. O sistema SUP irá armazenar os dados dos seus usuários tais como senha, login, cpf entre outros para garantir a segurança de suas contas e NFCs que seus usuários possam ter.
+A empresa "Brutec" tem como objetivo colaborar com as empresas de transportes públicos e privados para melhorar o pagamento de suas passagens por um meu único de pagamento com a utilização do NFC para a melhor facilidade de seus usuários. Com esse sistema SUP a empresa "Brutec" vai ter um melhor gerenciamento das contas e passagens pagas para cada empresa. O sistema SUP irá armazenar os dados dos seus usuários tais como senha, login, cpf entre outros para garantir a segurança de suas contas e NFCs que seus usuários possam ter.
 
 ### 3.MINI-MUNDO Novo<br>
 
@@ -27,9 +25,9 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Mobile.pdf)
+![Arquivo PDF do Protótipo Balsamiq feito para Empresa Brutec - Versão Mobile](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Mobile.pdf)
 
-[Arquivo PDF do Protótipo Balsamiq feito para Empresa Brutec](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Sistema%20%C3%9Anico%20de%20Passagens.pdf)
+[Arquivo PDF do Protótipo Balsamiq feito para Empresa Brutec - Versão Desktop](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Sistema%20%C3%9Anico%20de%20Passagens.pdf)
 
 #### 4.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
