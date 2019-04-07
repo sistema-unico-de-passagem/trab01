@@ -1,4 +1,4 @@
-# TRABALHO 01:  Título do Trabalho
+# TRABALHO 01:  Sistema Único de Passagens
 Trabalho desenvolvido durante a disciplina de BD1
 
 # Sumário
@@ -13,7 +13,7 @@ Matheus Aguiar Ximenes: aguiar007ax@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 
-<p align="justify">A empresa *Brutec* tem como objetivo colaborar com as empresas de transportes públicos e privados para melhorar o pagamento de suas passagens por um meu único de pagamento com a utilização do **NFC** para a melhor facilidade de seus usuários. Com esse sistema SUP a empresa *Brutec* vai ter um melhor gerenciamento das contas e passagens pagas para cada empresa. O sistema SUP irá armazenar os dados dos seus usuários tais como senha, login, cpf entre outros para garantir a segurança de suas contas e NFCs que seus usuários possam ter.</p>
+<p align="justify">A empresa _Brutec_ tem como objetivo colaborar com as empresas de transportes públicos e privados para melhorar o pagamento de suas passagens por um meu único de pagamento com a utilização do <stronger>NFC<stronger> para a melhor facilidade de seus usuários. Com esse sistema SUP a empresa *Brutec* vai ter um melhor gerenciamento das contas e passagens pagas para cada empresa. O sistema SUP irá armazenar os dados dos seus usuários tais como senha, login, cpf entre outros para garantir a segurança de suas contas e NFCs que seus usuários possam ter.</p>
 
 ### 3.MINI-MUNDO Novo<br>
 
