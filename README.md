@@ -77,16 +77,46 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
     EXEMPLO:
     a) Campo Endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
+    pode possuir para cada departamento mais de uma localisazação... 
     b) justifique!
 
 >## Marco de Entrega 02 em: (17/09/2018)<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: Campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+usuario =
+telefone: numero de telefone cadastrado do usuario
+cpf: cpf do usario
+endereço: endereço do usuario cadastrado
+nome: nome do usuario
+nfc uid:
+
+cartão =
+qtd_creditos: quantia de credito em reais ainda no cartao nfc
+data_cadastro: data que se foi cadastrado o cartao e usuario
+id: numero de id do cartao
+
+viagens =
+descrição: nome da viagem (terminal de laranjeiras, ibes)
+numero_onibus: numero do ônibus (515, 572...)
+cod_viagem: numero do codigo da viagem realisada
+
+maquina_identificadora =
+nfc uid:
+localizacao: local que se foi utilizado o cartão nfc
+cod_maquina: numero do codigo da maquina de identifcação do cartao nfc
+
+empresa =
+cnpj: numero do cnpj da empresa
+nome: nome da empresa
+endereco: endereço da empresa
+telefone: numero de telefone da empresa
+
+transporte =
+placa: placa do veiculo utilizado
+chassi: identificão do chassi do veiculo utilizado
+modelo: modelo do veiculo utilizado
+numero: numero do veiculo utilizado
+
+
 
 
 ### 6	MODELO LÓGICO<br>
