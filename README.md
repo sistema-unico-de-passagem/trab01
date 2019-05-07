@@ -82,39 +82,39 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 >## Marco de Entrega 02 em: (17/09/2018)<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
-usuario =
-telefone: numero de telefone cadastrado do usuario
-cpf: cpf do usario
-endereço: endereço do usuario cadastrado
-nome: nome do usuario
-nfc uid:
+Usuario =
+Telefone: numero de telefone cadastrado do usuario
+Cpf: cpf do usario
+Endereço: endereço do usuario cadastrado
+Nome: nome do usuario
+NFC uid:
 
-cartão =
-qtd_creditos: quantia de credito em reais ainda no cartao nfc
-data_cadastro: data que se foi cadastrado o cartao e usuario
-id: numero de id do cartao
+Cartão =
+Qtd_creditos: quantia de credito em reais ainda no cartao nfc
+Data_cadastro: data que se foi cadastrado o cartao e usuario
+Id: numero de id do cartao
 
-viagens =
-descrição: nome da viagem (terminal de laranjeiras, ibes)
-numero_onibus: numero do ônibus (515, 572...)
-cod_viagem: numero do codigo da viagem realisada
+Viagens =
+Descrição: nome da viagem (terminal de laranjeiras, ibes)
+Numero_onibus: numero do ônibus (515, 572...)
+Cod_viagem: numero do codigo da viagem realisada
 
-maquina_identificadora =
-nfc uid:
-localizacao: local que se foi utilizado o cartão nfc
-cod_maquina: numero do codigo da maquina de identifcação do cartao nfc
+Maquina_identificadora =
+NFC uid:
+Localizacao: local que se foi utilizado o cartão nfc
+Cod_maquina: numero do codigo da maquina de identifcação do cartao nfc
 
-empresa =
-cnpj: numero do cnpj da empresa
-nome: nome da empresa
-endereco: endereço da empresa
-telefone: numero de telefone da empresa
+Empresa =
+CNPJ: numero do cnpj da empresa
+Nome: nome da empresa
+Endereco: endereço da empresa
+Telefone: numero de telefone da empresa
 
-transporte =
-placa: placa do veiculo utilizado
-chassi: identificão do chassi do veiculo utilizado
-modelo: modelo do veiculo utilizado
-numero: numero do veiculo utilizado
+Transporte =
+Placa: placa do veiculo utilizado
+Chassi: identificão do chassi do veiculo utilizado
+Modelo: modelo do veiculo utilizado
+Número: número do veiculo utilizado
 
 
 
