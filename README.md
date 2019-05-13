@@ -100,9 +100,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 - COD_VIAGENS: número do codigo da viagem realisada
 
 <B>MAQUINA_IDENTIFICADORA</b> <br>
--NFC_UID: id do nfc que o usuário possui <br>
--LOCALIZAÇÃO: local que se foi utilizado o cartão nfc <br>
--COD_MÁQUINA: número do código da máquina de identifcação do cartão nfc
+- NFC_UID: id do nfc que o usuário possui <br>
+- LOCALIZAÇÃO: local que se foi utilizado o cartão nfc <br>
+- COD_MÁQUINA: número do código da máquina de identifcação do cartão nfc
 
 <B>EMPRESA</B> <br>
 - CNPJ: número do cnpj da empresa <br>
