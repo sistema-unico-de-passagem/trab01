@@ -82,39 +82,39 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 >## Marco de Entrega 02 em: (17/09/2018)<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
-<B>USUARIO</B>
-TELEFONE: numero de telefone cadastrado do usuario
-CPF: cpf do usario
-ENDERECO: endereço do usuario cadastrado
-NOME: nome do usuario
-NFC UID:
+<B>USUARIO</B> <br>
+-TELEFONE: numero de telefone cadastrado do usuario <br>
+-CPF: cpf do usuario <br>
+-ENDERECO: endereço do usuario cadastrado <br>
+-NOME: nome do usuario <br>
+-NFC UID: id do nfc que o usuario possui 
 
-<B>CARTÃO</B>
-QTD_CREDITOS: quantia de credito em reais ainda no cartao nfc
-DATA_CADASTRO: data que se foi cadastrado o cartao e usuario
-ID: numero de id do cartao
+<B>CARTÃO</B> <br>
+-QTD_CREDITOS: quantia de credito em reais ainda no cartao nfc <br>
+-DATA_CADASTRO: data que se foi cadastrado o cartao e usuario <br>
+-ID: numero de id do cartao
 
-<B>VIAGENS</B>
-DESCRICAO: nome da viagem (terminal de laranjeiras, ibes)
-NUMERO_ONIBUS: numero do ônibus (515, 572...)
-COD_VIAGENS: numero do codigo da viagem realisada
+<B>VIAGENS</B> <br>
+-DESCRICAO: nome da viagem (terminal de laranjeiras, ibes) <br>
+-NUMERO_ONIBUS: numero do ônibus (515, 572...) <br>
+-COD_VIAGENS: numero do codigo da viagem realisada
 
-<B>MAQUINA_IDENTIFICADORA</b>
-NFC UID:
-Localizacao: local que se foi utilizado o cartão nfc
-Cod_maquina: numero do codigo da maquina de identifcação do cartao nfc
+<B>MAQUINA_IDENTIFICADORA</b> <br>
+-NFC UID: id do nfc que o usuario possui <br>
+-Localizacao: local que se foi utilizado o cartão nfc <br>
+-Cod_maquina: numero do codigo da maquina de identifcação do cartao nfc
 
-<B>EMPRESA</B>
-CNPJ: numero do cnpj da empresa
-NOME: nome da empresa
-ENDERECO: endereço da empresa
-TELEFONE: numero de telefone da empresa
+<B>EMPRESA</B> <br>
+-CNPJ: numero do cnpj da empresa <br>
+-NOME: nome da empresa <br>
+-ENDERECO: endereço da empresa <br>
+-TELEFONE: numero de telefone da empresa
 
-<B>TRANSPORTE</B>
-PLACA: placa do veiculo utilizado
-CHASSI: identificão do chassi do veiculo utilizado
-MODELO: modelo do veiculo utilizado
-NUMERO: número do veiculo utilizado
+<B>TRANSPORTE</B> <br>
+-PLACA: placa do veiculo utilizado <br>
+-CHASSI: identificão do chassi do veiculo utilizado <br>
+-MODELO: modelo do veiculo utilizado <br>
+-NUMERO: número do veiculo utilizado
 
 
 
