@@ -82,39 +82,39 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 >## Marco de Entrega 02 em: (17/09/2018)<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
-Usuario =
-Telefone: numero de telefone cadastrado do usuario
-Cpf: cpf do usario
-Endereço: endereço do usuario cadastrado
-Nome: nome do usuario
-NFC uid:
+<B>USUARIO</B>
+TELEFONE: numero de telefone cadastrado do usuario
+CPF: cpf do usario
+ENDERECO: endereço do usuario cadastrado
+NOME: nome do usuario
+NFC UID:
 
-Cartão =
-Qtd_creditos: quantia de credito em reais ainda no cartao nfc
-Data_cadastro: data que se foi cadastrado o cartao e usuario
-Id: numero de id do cartao
+<B>CARTÃO</B>
+QTD_CREDITOS: quantia de credito em reais ainda no cartao nfc
+DATA_CADASTRO: data que se foi cadastrado o cartao e usuario
+ID: numero de id do cartao
 
-Viagens =
-Descrição: nome da viagem (terminal de laranjeiras, ibes)
-Numero_onibus: numero do ônibus (515, 572...)
-Cod_viagem: numero do codigo da viagem realisada
+<B>VIAGENS</B>
+DESCRICAO: nome da viagem (terminal de laranjeiras, ibes)
+NUMERO_ONIBUS: numero do ônibus (515, 572...)
+COD_VIAGENS: numero do codigo da viagem realisada
 
-Maquina_identificadora =
-NFC uid:
+<B>MAQUINA_IDENTIFICADORA</b>
+NFC UID:
 Localizacao: local que se foi utilizado o cartão nfc
 Cod_maquina: numero do codigo da maquina de identifcação do cartao nfc
 
-Empresa =
+<B>EMPRESA</B>
 CNPJ: numero do cnpj da empresa
-Nome: nome da empresa
-Endereco: endereço da empresa
-Telefone: numero de telefone da empresa
+NOME: nome da empresa
+ENDERECO: endereço da empresa
+TELEFONE: numero de telefone da empresa
 
-Transporte =
-Placa: placa do veiculo utilizado
-Chassi: identificão do chassi do veiculo utilizado
-Modelo: modelo do veiculo utilizado
-Número: número do veiculo utilizado
+<B>TRANSPORTE</B>
+PLACA: placa do veiculo utilizado
+CHASSI: identificão do chassi do veiculo utilizado
+MODELO: modelo do veiculo utilizado
+NUMERO: número do veiculo utilizado
 
 
 
