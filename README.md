@@ -77,7 +77,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
     EXEMPLO:
     a) Campo Endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localisazação... 
+    pode possuir para cada departamento mais de uma localização... 
     b) justifique!
 
 >## Marco de Entrega 02 em: (17/09/2018)<br>
