@@ -202,7 +202,19 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         a) Uma junção que envolva todas as tabelas possuindo no mínimo 3 registros no resultado
         b) Outras junções que o grupo considere como sendo as de principal importância para o trabalho
 #### 9.7	CONSULTAS COM GROUP BY E FUNÇÕES DE AGRUPAMENTO (Mínimo 6)<br>
+            select estado,count(estado) from enderecos group by estado
+            select estado,count(estado) from enderecos where estado = 'RS' or estado = 'ES' group by estado 
+            select  sum(saldo) from cartao_nfc 
+            select  sum(saldo) from cartao_nfc where cpf_proprietario like '_9%'
+            select  min(saldo) from cartao_nfc
+            select count(nome) from empresas
+            
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4)<br>
+            select * from empresas left join enderecos on(empresas.fk_end = enderecos.id_endereco)
+            select * from cartao_nfc right join transacao on(cartao_nfc.nfc_uid_usuario = transacao.fk_nfc_cartao)
+            select * from linha left join itinerarios on(linha.fk_itin = itinerarios.cod_itinerario)
+            select nome,cartao.numero_cartao from clientes right join cartao on (clientes.cpf=cartao.cpf)
+            
 #### 9.9	CONSULTAS COM SELF JOIN E VIEW (Mínimo 6)<br>
         a) Uma junção que envolva Self Join
         b) Outras junções com views que o grupo considere como sendo de relevante importância para o trabalho
