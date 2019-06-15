@@ -172,10 +172,26 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E TABELAS OU CAMPOS RENOMEADOS (Mínimo 11)
     a) Criar 5 consultas que envolvam os operadores lógicos AND, OR e Not
+        select * from transacao where id_transacao > 5 OR id_transacao < 50;
+        select * from transacao where not (fk_id_cartao > 50 or id_transacao > 5) ; 
+        select * from cartao where id_cartao > 10 AND tipo_cartao= 'DEBITO';
+        select * from clientes  where nome ilike  'a%' and id_cliente > 15;
+        select * from enderecos where estado = 'PE' or cep ilike '7%';
     b) Criar no mínimo 3 consultas com operadores aritméticos 
+        
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
+        select nome as clinte_nome,telefone as tel from clientes;
+        select fk_nfc_uid_usuario as uid_usuario,id_log from log_maquina;
+        select cpf,tipo_cartao as tipo from cartao;
+        
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE E DATAS (Mínimo 12) <br>
     a) Criar outras 5 consultas que envolvam like ou ilike
+        select * from clientes  where nome ilike  'a%'
+        select * from clientes where nome like 'b______'
+        select * from clientes where nome ilike 'r%'
+        select * from cartao where numero_cartao like '5__5%'
+        select * from terminais where nome ilike 't%'
+        
     b) Criar uma consulta para cada tipo de função data apresentada.
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
