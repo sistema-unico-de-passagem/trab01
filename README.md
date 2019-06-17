@@ -224,10 +224,13 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%206.png?raw=true)
             
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4)<br>
-            select * from empresas left join enderecos on(empresas.fk_end = enderecos.id_endereco)
-            select * from cartao_nfc right join transacao on(cartao_nfc.nfc_uid_usuario = transacao.fk_nfc_cartao)
-            select * from linha left join itinerarios on(linha.fk_itin = itinerarios.cod_itinerario)
-            select nome,cartao.numero_cartao from clientes right join cartao on (clientes.cpf=cartao.cpf)
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.8/9.8%20-%201.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.8/9.8%20-%202.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.8/9.8%20-%203.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.8/9.8%20-%204.png?raw=true)
             
 #### 9.9	CONSULTAS COM SELF JOIN E VIEW (Mínimo 6)<br>
         a) Uma junção que envolva Self Join
