@@ -199,6 +199,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%203.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%204.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%205.png?raw=true)
     b) Criar uma consulta para cada tipo de função data apresentada.
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
