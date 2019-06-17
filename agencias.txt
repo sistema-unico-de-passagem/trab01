@@ -1,0 +1,23 @@
+Aeroporto de Vitória ;null;08:00 às 20:00; 08:00 às 20:00;null
+Aracruz;(27)3256-4558 ;04h30 as 20h15;04h30 as 20h15;5h30 as 12:00,14:00 as 20h15 
+Brejetuba ;null;07h00 as 18h40 ;07h00 as 12h00;null
+Cachoeiro de itapemirim ;(28) 3027-4838;05h30 as 21h40;05h30 as 21h40;null
+Campo grande;(27)3343-2226 ;07h00 as 18h00;07h00 as 13h00; null
+Carapina (serra);(27)3095-3901;05h30 as 23h30;05h30 as 23h30;null
+Colatina (rodoviária);(27)3721-5484;00h30 as 03:30, 04h30 as 23h00;00h30 as 03h:30, 04h:30 as 23h;null
+Conc. da Barra;(27) 99909-0046;05:40 as 12:30, 13:30 as 18:30; 05:40 as 12:30 , 13:30 as 18:30;null
+Domingos Martins;(27) 3268-1243, 99948-6082;05h00 as 20h00;05h00 as 12h00 , 13h00 as 20h00;null
+Fundão;(27) 3267-2417,99904-0048; 05h40 as 19h20;05h50 as 19h20; 06h40 as 19h20
+Guarapari;(28) 99903-9797;07h00 as 12h30, 14h00 as 20h00;07h00 as 12h30, 14h00 as 20h00;null
+Gurirí;(27) 99909-1956;08h às 11h30, 13h às 17h;08h às 11h30, 13h às 17h00; null
+Jacaraípe; (27) 3243-5867;08h00 as 12h00,13h30 as 18h00;08h00 as 12h00,13h30 as 18h00 ;null
+Jardim camburi;(27) 3029-3469;07h30 as 18h00;Sabado 08h00 as 12h00; null
+João neiva;(27) 99947-6759 ;06h00 as 22h00;06h00 as 22h00;null
+Laranjeiras;(27) 3328-3768 , 99947-6802;08h00 as 18h00;08h30 as 11h30; null
+Linhares (rodoviária); (27) 3264-2082;05h00 as 21h00;05h00 as 21h00;null
+São Domingos; (27) 3742-1059, 99904-0049;06h as 13h30,14h30 as 18h40; 06h00 as 13h30, 14h30 as 18h40;null 
+Serra ;(27) 3251-1060;06h25 as 19h00;06h25 as 19h00;null
+Sooretama;(27) 99904-0052;06h00 as 13h00,15h40 as 18h00;06h00 as 13h00, 15h40 as 18h00; null
+Vila Velha;(27) 3349-4874;07h00 as 23h00;07h00 as 23h00;null
+Vitória ;(27)3222-743;05h00 as 23h30;05h00 as 23h30;null
+Vitor Hugo;(27) 98133-1116;07h00 as 18h00;07h00 as 18h00;null
