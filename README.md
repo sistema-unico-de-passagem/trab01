@@ -211,12 +211,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         a) Uma junção que envolva todas as tabelas possuindo no mínimo 3 registros no resultado
         b) Outras junções que o grupo considere como sendo as de principal importância para o trabalho
 #### 9.7	CONSULTAS COM GROUP BY E FUNÇÕES DE AGRUPAMENTO (Mínimo 6)<br>
-            select estado,count(estado) from enderecos group by estado
-            select estado,count(estado) from enderecos where estado = 'RS' or estado = 'ES' group by estado 
-            select  sum(saldo) from cartao_nfc 
-            select  sum(saldo) from cartao_nfc where cpf_proprietario like '_9%'
-            select  min(saldo) from cartao_nfc
-            select count(nome) from empresas
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%201.png?raw=true)
             
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4)<br>
             select * from empresas left join enderecos on(empresas.fk_end = enderecos.id_endereco)
