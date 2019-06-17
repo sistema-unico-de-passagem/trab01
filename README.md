@@ -184,9 +184,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     b) Criar no mínimo 3 consultas com operadores aritméticos 
         
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
-        select nome as clinte_nome,telefone as tel from clientes;
-        select fk_nfc_uid_usuario as uid_usuario,id_log from log_maquina;
-        select cpf,tipo_cartao as tipo from cartao;
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3%20-%20c/9.3%20-%20c%20-%201.png?raw=true)
         
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE E DATAS (Mínimo 12) <br>
     a) Criar outras 5 consultas que envolvam like ou ilike
