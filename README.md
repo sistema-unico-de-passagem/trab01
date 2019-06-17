@@ -170,6 +170,13 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20viagem.png?raw=true)
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.2%20-%201.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.3%20-%202.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.3%20-%203.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.4%20-%204.png?raw=true)
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E TABELAS OU CAMPOS RENOMEADOS (Mínimo 11)
     a) Criar 5 consultas que envolvam os operadores lógicos AND, OR e Not
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%201.png?raw=true)
