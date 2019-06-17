@@ -212,6 +212,16 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) Outras junções que o grupo considere como sendo as de principal importância para o trabalho
 #### 9.7	CONSULTAS COM GROUP BY E FUNÇÕES DE AGRUPAMENTO (Mínimo 6)<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%201.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%202.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%203.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%204.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%205.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.7/9.7%20-%206.png?raw=true)
             
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4)<br>
             select * from empresas left join enderecos on(empresas.fk_end = enderecos.id_endereco)
