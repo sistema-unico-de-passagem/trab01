@@ -177,6 +177,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-2.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%203.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%204.png?raw=true)
     b) Criar no mínimo 3 consultas com operadores aritméticos 
         
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
