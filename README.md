@@ -17,7 +17,7 @@ Matheus Aguiar Ximenes: aguiar007ax@gmail.com<br>
 
 ### 3.MINI-MUNDO Novo<br>
 
-<p align="justify"> O sistema que foi proposto para <b>Brutec</b>, o usuário deverá obrigatoriamente ter um cadastro no sistema.Um usuário pode ser uma empresa ou uma pessoa física.Uma pessoa conterá nome, telefone, e-mail , endereço, CPF, RG. Um usuário podera também cadastrar informações sobre seu banco, a fim de efetuar recargas do cartão.  No ato do cadastro, o usuário deverá também cadastrar seu rosto para reconhecimento facial. Um usuário possuirá um cartão e/ou uma chave <b>NFC</b> instalado no celular. Um usuário pode ter diferentes tipos de cartão, mas um cartão pertencera a apenas um usuário. Um cartão pode conter o cpf do usuário, código do cartão, data de vencimento e foto. Acerca da recarga do cartão, poderá ser feita através de boletos bancários, descontos automáticos em contas bancárias, pagamento de cartões de crédito ou pagar fisicamente em um local dedicado ao fim. o sistema terá diversas empresa de ônibus cadastradas. Todas as empresas terão suporte para o uso da chave <b>NFC</b>, porém nem todas ultilizarão  cartão de passagem. Empresas também poderão se cadastrar como usuários. Uma empresa terá nome, CNPJ, endereço, telefone de contato e E-mail, alem de informações a respeito de pagamentos.Cada pessoa pode estar associado a várias modalidades,podendo ser: Idoso,Estudante,Estudante Gratuito e Cartão de Empresa (isso para empresas que utilizam cartão de passagem, como a GVbus.). Empresas como Águia Branca utilizam apenas o <b>NFC</b> como passe.</p>
+<p align="justify"> O sistema que foi proposto para <b>Brutec</b>, o usuário deverá obrigatoriamente ter um cadastro no sistema. Um usuário pode ser uma empresa ou uma pessoa física.Uma pessoa conterá nome, telefone, e-mail , endereço, CPF, RG. Um usuário poderá também cadastrar informações sobre seu banco, a fim de efetuar recargas do cartão.  No ato do cadastro, o usuário deverá também cadastrar seu rosto para reconhecimento facial. Um usuário possuirá um cartão e/ou uma chave <b>NFC</b> instalado no celular. Um usuário pode ter diferentes tipos de cartão, mas um cartão pertencerá a apenas um usuário. Um cartão pode conter o CPF do usuário, código do cartão, data de vencimento e foto. Acerca da recarga do cartão, poderá ser feita através de boletos bancários, descontos automáticos em contas bancárias, pagamento de cartões de crédito ou pagar fisicamente em um local dedicado ao fim. O sistema terá diversas empresa de ônibus cadastradas. Todas as empresas terão suporte para o uso da chave <b>NFC</b>, porém nem todas ultilizarão  cartão de passagem. Empresas também poderão se cadastrar como usuários. Uma empresa terá nome, CNPJ, endereço, telefone de contato e E-mail, além de informações a respeito de pagamentos. Cada pessoa pode estar associado a várias modalidades, podendo ser: Idoso, Estudante, Estudante Gratuito e Cartão de Empresa (isso para empresas que utilizam cartão de passagem, como a GVbus.). Empresas como Águia Branca utilizam apenas o <b>NFC</b> como passe.</p>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
@@ -151,6 +151,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
     OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+    
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20cartao.png?raw=true)
 
@@ -169,6 +170,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20transacao.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20viagem.png?raw=true)
+
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.2%20-%201.png?raw=true)
 
@@ -177,7 +179,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.3%20-%203.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.4%20-%204.png?raw=true)
+
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E TABELAS OU CAMPOS RENOMEADOS (Mínimo 11)
+
     a) Criar 5 consultas que envolvam os operadores lógicos AND, OR e Not
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%201.png?raw=true)
 
@@ -188,6 +192,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%204.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%205.png?raw=true)
+
     b) Criar no mínimo 3 consultas com operadores aritméticos 
         
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
@@ -198,6 +203,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3%20-%20c/9.3%20-%20c%20-%203.png?raw=true)
         
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE E DATAS (Mínimo 12) <br>
+
     a) Criar outras 5 consultas que envolvam like ou ilike
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%201.png?raw=true)
 
@@ -208,6 +214,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%204.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%205.png?raw=true)
+
     b) Criar uma consulta para cada tipo de função data apresentada.
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
