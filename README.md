@@ -172,11 +172,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E TABELAS OU CAMPOS RENOMEADOS (Mínimo 11)
     a) Criar 5 consultas que envolvam os operadores lógicos AND, OR e Not
-        select * from transacao where id_transacao > 5 OR id_transacao < 50;
-        select * from transacao where not (fk_id_cartao > 50 or id_transacao > 5) ; 
-        select * from cartao where id_cartao > 10 AND tipo_cartao= 'DEBITO';
-        select * from clientes  where nome ilike  'a%' and id_cliente > 15;
-        select * from enderecos where estado = 'PE' or cep ilike '7%';
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%201.png?raw=true)
     b) Criar no mínimo 3 consultas com operadores aritméticos 
         
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
