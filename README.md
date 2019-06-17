@@ -192,12 +192,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE E DATAS (Mínimo 12) <br>
     a) Criar outras 5 consultas que envolvam like ou ilike
-        select * from clientes  where nome ilike  'a%'
-        select * from clientes where nome like 'b______'
-        select * from clientes where nome ilike 'r%'
-        select * from cartao where numero_cartao like '5__5%'
-        select * from terminais where nome ilike 't%'
-        
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.4%20-%20a/9.4%20-%20a%20-%201.png?raw=true)
+
     b) Criar uma consulta para cada tipo de função data apresentada.
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
