@@ -173,6 +173,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E TABELAS OU CAMPOS RENOMEADOS (Mínimo 11)
     a) Criar 5 consultas que envolvam os operadores lógicos AND, OR e Not
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-%201.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3/9.3%20-2.png?raw=true)
     b) Criar no mínimo 3 consultas com operadores aritméticos 
         
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
