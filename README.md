@@ -185,6 +185,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         
     c) Criar no mínimo 3 consultas com operação de renomear nomes de campos ou tabelas
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3%20-%20c/9.3%20-%20c%20-%201.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.3%20-%20c/9.3%20-%20c%20-%202.png?raw=true)
         
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE E DATAS (Mínimo 12) <br>
     a) Criar outras 5 consultas que envolvam like ou ilike
