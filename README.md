@@ -58,7 +58,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         * O protótipo deve possui no mínimo duas relações N para N
         * o mínimo de entidades do modelo conceitual será igual a 5
         
-![Alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/CONCEITUAL.brM3?raw=true)
+![Alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/MODELO%20CONCEITUAL.png?raw=true)
     
     B) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
     C) QUALIDADE 
