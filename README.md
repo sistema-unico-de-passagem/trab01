@@ -205,9 +205,24 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         (em caso de falha na restauração o grupo não pontuará neste quesito)
         c) formato .SQL
 #### 8.4 Principais fluxos de informação e principais tabelas do sistema
+
         a) Quais os principais fluxos de dados de informação no sistema em densenvolvimento (mínimo 3)
+        - Transação bancária para recarga de créditos no sistema (tabela transação).
+        - Viagens feitas pelos usuãrios (tabela Viagem).
+        - Relatórios obtidos dos validadores presentes nos ônibus (tabela log_máquina).
+        
         b) Quais as tabelas que conterão mais dados no sistema em densenvolvimento (mínimo 3)
+        - Linhas
+        - Transacao
+        - Enderecos
+        
         c) informe quais as 5 principais tabelas do sistema em densenvolvimento.
+        - Linhas
+        - Terminais
+        - Transacao
+        - log_máquina
+        - Usuários
+        
 >## Marco de Entrega 03 em: (27/09/18) <br>
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
