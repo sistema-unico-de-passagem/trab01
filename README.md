@@ -35,15 +35,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
  A Empresa <b>Brutec</b> precisa inicialmente dos seguintes relatórios:
  
-- Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.</p>
+- Relatório que informa em que época do ano foram feitas mais viagens.</p>
 
-- Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.</p>
+- Relatório dos usuários que mais utlizam o sistema e suas linhas mais usudas. </p>
 
-- Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.</p>
+- Relatório das cidades com mais ofertas de terminais/agências de viação. </p>
 
-- Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.</p>
+- Relatório das viações mais usadas e em qual época do ano. </p>
 
-- Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.</p>
+- Relatório dos tipos de pagamentos mais utilizados .</p>
  
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
