@@ -157,19 +157,29 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20cartao_nfc.png?raw=true)
 
-![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20clientes.png?raw=true)
-
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20empresas.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20enderecos.png?raw=true)
 
-![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20maquina_decodificadora.png?raw=true)
-
-![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20passagem.png?raw=true)
-
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20transacao.png?raw=true)
 
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/print%201%20-%20insert%20viagem.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/clientes.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/horarios.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/itras.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/linhas.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/log_maquina.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/terminais.png?raw=true)
+
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/Print/valida.png?raw=true)
+
+
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
 ![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/9.2/9.2%20-%201.png?raw=true)
