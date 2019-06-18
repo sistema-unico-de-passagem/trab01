@@ -82,40 +82,99 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 >## Marco de Entrega 02 em: (17/09/2018)<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
-<B>USUÁRIO</B> <br>
+<B>CLIENTES</B> <br>
 - TELEFONE: número de telefone cadastrado do usuario <br>
 - CPF: cpf do usuário <br>
+- RG: rg do usuário <br>
+- Telefone: Telefone(s) do usuário
+- E-mail : Endereço eletrônico 
 - ENDERECO: endereço do usuário cadastrado <br>
 - NOME: nome do usuário <br>
-- NFC_UID: id do nfc que o usuário possui 
+- data_nasc: Data de nascimento <br>
+- login: Login do usuário no sistema <br>
+- Senha: Senha do usuário no Sistema <br>
 
-<B>CARTÃO</B> <br>
-- QTD_CRÉDITOS: quantia de crédito em reais ainda no cartão nfc <br>
+<B>CARTÃO NFC</B> <br>
+- saldo: quantia de crédito em reais ainda no cartão nfc <br>
 - DATA_CADASTRO: data que se foi cadastrado o cartão e usuário <br>
-- ID: número de id do cartão
+- NFC_uid_usuario: número de id do cartão nfc <br>
+- cpf_propietario: CPF do dono da cartão NFC <br>
+- DATA_VALIDADE : Data de validade do cartao <br>
+
 
 <B>VIAGENS</B> <br>
-- DESCRIÇÃO: nome da viagem (terminal de laranjeiras, ibes) <br>
+- nome_viagem: nome da viagem (terminal de laranjeiras, ibes) <br>
 - NÚMERO_ÔNIBUS: número do ônibus (515, 572...) <br>
 - COD_VIAGENS: número do codigo da viagem realisada
+- placa: Placa do veiculo <br>
+- fk_nfc_uid_maquina: Código do validador do ônibus <br>
+- horario_saida: Horario de saida da viagem <br>
+- dia_viagem: Dia da viagem <br>
 
-<B>MAQUINA_IDENTIFICADORA</b> <br>
-- NFC_UID: id do nfc que o usuário possui <br>
-- LOCALIZAÇÃO: local que se foi utilizado o cartão nfc <br>
-- COD_MÁQUINA: número do código da máquina de identifcação do cartão nfc
+<B>Validador</b> <br>
+- NFC_UID_MAQUINA: id do nfc que o usuário possui <br>
+- data_criacao: Data de criação do validador <br>
+- CNPJ_Propietario: Empresa propietaria do validador <br>
 
 <B>EMPRESA</B> <br>
 - CNPJ: número do cnpj da empresa <br>
 - NOME: nome da empresa <br>
-- ENDEREÇO: endereço da empresa <br>
-- TELEFONE: número de telefone da empresa
+- fk_end: codigo do endereço da empresa <br>
+- TELEFONE: número de telefone da empresa <br>
+- E-Mail: endereço eletrônico da empresa
 
-<B>TRANSPORTE</B> <br>
-- PLACA: placa do veiculo utilizado <br>
-- CHASSI: identificão do chassi do veiculo utilizado <br>
-- MODELO: modelo do veiculo utilizado <br>
-- NÚMERO: número do veiculo utilizado
+<B>Linha</B> <br>
+- num_linha: Numero da linha <br>
+- descricao: Descrição da linha <br>
+- fk_itin: Codigo do iinerario dessa linha <br>
+- fk_hr: Codigo dos horarios dessa linha <br>
+- cod_linha: Código da linha
 
+<B>CARTAO</B> <br>
+- CPF: CPF do dono do cartão <br>
+- numero_cartao: NUmero do cartão <br>
+- validade_cartao: Data de validade do cartão <br>
+- tipo_cartao: Tipo do cartão(Debito,Crédito) <br> 
+- senha_cartão: Senha do cartão <br>
+- id_cartao: cdio do cartao <br>
+
+<B>TERMINAIS</B> <br>
+- nome: Nome do terminal/agencia <br>
+- fk_endereco: Codigo do endereço <br>
+- linhas: Linhas que passão por esse terminal/agência <br>
+- tel: Telefone de contato <br>
+
+<B>HORARIOS</B> <br>
+- cod_horario: Codigo do horario <br>
+- horario: Horario do ônibus
+
+<B>log_maquina</B> <br>
+- fk_nfc_uid_usuario: Chave nfc do usuario <br>
+- fk_uid_maquina: nfc da maquina verificadora <br>
+- data_passagem: data da passagem <br>
+- hora_passagem: hora da passagem <br>
+- id_log: codigo do relatorio <br>
+
+<B>TRANSACAO</B> <br>
+- id_transacao: Codigo da transação <br>
+- fk_id_cartao: Codigo do cartao do usuario <br>
+- valor: Valor de recarga do carato NFC <br>
+- data_transacao: Data da transação <br>
+- fk_nfc_catao: Código do cartão NFC do usuario <br>
+
+<B>ITINERARIOS</B> <br>
+- cod_itinerario: codigo do itinerario <br>
+- Locais: Locais pelos quais passa o ônibus <br>
+
+<B>ENDERECOS</B> <br>
+- rua: Rua <br>
+- numero: Número da residência <br>
+- bairro: Bairro <br>
+- cidade: Cidade <br>
+- CEP: CEP <br>
+- estado: Estado <br>
+- complemento: Informação complementar a respeito da residência do usuário <br>
+- id_endereco: Codgo do endereço <br>
 
 ### 6	MODELO LÓGICO<br>
         a) inclusão do modelo lógico do banco de dados
