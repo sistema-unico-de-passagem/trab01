@@ -177,7 +177,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 - id_endereco: Codgo do endereço <br>
 
 ### 6	MODELO LÓGICO<br>
-![Alt text]("https://github.com/sistema-unico-de-passagem/trab01/blob/master/LOGICO.png")
+![Alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/LOGICO.png?raw=true)
+
         a) inclusão do modelo lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
         (não serão aceitos modelos que não estejam em conformidade)
