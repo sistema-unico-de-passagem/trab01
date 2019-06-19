@@ -183,6 +183,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         (não serão aceitos modelos que não estejam em conformidade)
 
 ### 7	MODELO FÍSICO<br>
+![alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/parcial.txt?raw = true)
         a) inclusão das instruções de criacão das estruturas DDL 
         (criação de tabelas, alterações, etc..)          
         
