@@ -83,98 +83,97 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 >## Marco de Entrega 02 em: (17/09/2018)<br>
 #### 5.3 DESCRIÇÃO DOS DADOS 
 <B>CLIENTES</B> <br>
-- TELEFONE: número de telefone cadastrado do usuario <br>
-- CPF: cpf do usuário <br>
-- RG: rg do usuário <br>
-- Telefone: Telefone(s) do usuário
-- E-mail : Endereço eletrônico 
-- ENDERECO: endereço do usuário cadastrado <br>
-- NOME: nome do usuário <br>
-- data_nasc: Data de nascimento <br>
-- login: Login do usuário no sistema <br>
-- Senha: Senha do usuário no Sistema <br>
+- NOME: Nome do usuário <br>
+- TELEFONE: Número de telefone cadastrado do usuario <br>
+- CPF: CPF do usuário <br>
+- RG: RG do usuário <br>
+- E-MAIL: Endereço eletrônico 
+- ENDERECO: Endereço do usuário cadastrado <br>
+- DATA_NASC: Data de nascimento <br>
+- LOGIN: Login do usuário no sistema <br>
+- SENHA: Senha do usuário no Sistema <br>
 
 <B>CARTÃO NFC</B> <br>
-- saldo: quantia de crédito em reais ainda no cartão nfc <br>
-- DATA_CADASTRO: data que se foi cadastrado o cartão e usuário <br>
-- NFC_uid_usuario: número de id do cartão nfc <br>
-- cpf_propietario: CPF do dono da cartão NFC <br>
-- DATA_VALIDADE : Data de validade do cartao <br>
+- SALDO: Quantia de crédito em reais ainda no cartão nfc <br>
+- DATA_CADASTRO: Data que se foi cadastrado o cartão e usuário <br>
+- NFC_UID_USUARIO: Número de id do cartão nfc <br>
+- CPF_PROPRIETARIO: CPF do dono da cartão NFC <br>
+- DATA_VALIDADE: Data de validade do cartao <br>
 
 
 <B>VIAGENS</B> <br>
-- nome_viagem: nome da viagem (terminal de laranjeiras, ibes) <br>
-- NÚMERO_ÔNIBUS: número do ônibus (515, 572...) <br>
-- COD_VIAGENS: número do codigo da viagem realisada
-- placa: Placa do veiculo <br>
-- fk_nfc_uid_maquina: Código do validador do ônibus <br>
-- horario_saida: Horario de saida da viagem <br>
-- dia_viagem: Dia da viagem <br>
+- NOME_VIAGEM: Nome da viagem (Terminal de Laranjeiras, Ibes) <br>
+- NÚMERO_ÔNIBUS: Número do ônibus (515, 572...) <br>
+- COD_VIAGENS: Número do codigo da viagem realisada
+- PLACA: Placa do veiculo <br>
+- FK_NFC_UID_MAQUINA: Código do validador do ônibus <br>
+- HORARIO_SAIDA: Horário de saída da viagem <br>
+- DIA_VIAGEM: Dia da viagem <br>
 
-<B>Validador</b> <br>
-- NFC_UID_MAQUINA: id do nfc que o usuário possui <br>
-- data_criacao: Data de criação do validador <br>
-- CNPJ_Propietario: Empresa propietaria do validador <br>
+<B>VALIDADOR</b> <br>
+- NFC_UID_MAQUINA: Id do NFC que o usuário possui <br>
+- DATA_CRIACAO: Data de criação do validador <br>
+- CNPJ_PROPRIETARIO: Empresa propietaria do validador <br>
 
 <B>EMPRESA</B> <br>
-- CNPJ: número do cnpj da empresa <br>
-- NOME: nome da empresa <br>
-- fk_end: codigo do endereço da empresa <br>
-- TELEFONE: número de telefone da empresa <br>
-- E-Mail: endereço eletrônico da empresa
+- CNPJ: Número do cnpj da empresa <br>
+- NOME: Nome da empresa <br>
+- FK_END: Código do endereço da empresa <br>
+- TELEFONE: Número de telefone da empresa <br>
+- E-MAIL: Endereço eletrônico da empresa
 
-<B>Linha</B> <br>
-- num_linha: Numero da linha <br>
-- descricao: Descrição da linha <br>
-- fk_itin: Codigo do iinerario dessa linha <br>
-- fk_hr: Codigo dos horarios dessa linha <br>
-- cod_linha: Código da linha
+<B>LINHA</B> <br>
+- NUM_LINHA: Número da linha <br>
+- DESCRICAO: Descrição da linha <br>
+- FK_INT: Código do itinerário dessa linha <br>
+- FK_HR: Código dos horários dessa linha <br>
+- COD_LINHA: Código da linha
 
 <B>CARTAO</B> <br>
 - CPF: CPF do dono do cartão <br>
-- numero_cartao: NUmero do cartão <br>
-- validade_cartao: Data de validade do cartão <br>
-- tipo_cartao: Tipo do cartão(Debito,Crédito) <br> 
-- senha_cartão: Senha do cartão <br>
-- id_cartao: cdio do cartao <br>
+- NUMERO_CARTAO: Número do cartão <br>
+- VALIDADE_CARTAO: Data de validade do cartão <br>
+- TIPO_CARTAO: Tipo do cartão (Debito,Crédito) <br> 
+- SENHA_CARTAO: Senha do cartão <br>
+- ID_CARTAO: Código do cartão <br>
 
 <B>TERMINAIS</B> <br>
-- nome: Nome do terminal/agencia <br>
-- fk_endereco: Codigo do endereço <br>
-- linhas: Linhas que passão por esse terminal/agência <br>
-- tel: Telefone de contato <br>
+- NOME: Nome do terminal/agência <br>
+- FK_ENDERECO: Código do endereço <br>
+- LINHAS: Linhas que passam por esse terminal/agência <br>
+- TEL: Telefone de contato <br>
 
 <B>HORARIOS</B> <br>
-- cod_horario: Codigo do horario <br>
-- horario: Horario do ônibus
+- COD_HORARIO: Código do horário <br>
+- HORARIO: Horário do ônibus
 
-<B>log_maquina</B> <br>
-- fk_nfc_uid_usuario: Chave nfc do usuario <br>
-- fk_uid_maquina: nfc da maquina verificadora <br>
-- data_passagem: data da passagem <br>
-- hora_passagem: hora da passagem <br>
-- id_log: codigo do relatorio <br>
+<B>LOG MAQUINA</B> <br>
+- FK_NFC_UID_USUARIO: Chave nfc do usuário <br>
+- FK_UID_MAQUINA: Nfc da máquina verificadora <br>
+- DATA_PASSAGEM: Data da passagem <br>
+- HORA_PASSAGEM: Hora da passagem <br>
+- ID_LOG: Código do relatorio <br>
 
 <B>TRANSACAO</B> <br>
-- id_transacao: Codigo da transação <br>
-- fk_id_cartao: Codigo do cartao do usuario <br>
-- valor: Valor de recarga do carato NFC <br>
-- data_transacao: Data da transação <br>
-- fk_nfc_catao: Código do cartão NFC do usuario <br>
+- ID_TRANSACAO: Código da transação <br>
+- FK_ID_CARTAO: Código do cartão do usuario <br>
+- VALOR: Valor de recarga do cartão NFC <br>
+- DATA_TRANSACAO: Data da transação <br>
+- FK_FNC_CARTAO: Código do cartão NFC do usuario <br>
 
 <B>ITINERARIOS</B> <br>
-- cod_itinerario: codigo do itinerario <br>
-- Locais: Locais pelos quais passa o ônibus <br>
+- COD_ITEINERARIO: Código do itinerario <br>
+- LOCAIS: Locais pelos quais passa o ônibus <br>
 
 <B>ENDERECOS</B> <br>
-- rua: Rua <br>
-- numero: Número da residência <br>
-- bairro: Bairro <br>
-- cidade: Cidade <br>
+- RUA: Rua <br>
+- NUMERO: Número da residência <br>
+- BAIRRO: Bairro <br>
+- CIDADE: Cidade <br>
 - CEP: CEP <br>
-- estado: Estado <br>
-- complemento: Informação complementar a respeito da residência do usuário <br>
-- id_endereco: Codgo do endereço <br>
+- ESTADO: Estado <br>
+- COMPLEMENTO: Informação complementar a respeito da residência do usuário <br>
+- ID_ENDERECO: Código do endereço <br>
 
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/sistema-unico-de-passagem/trab01/blob/master/LOGICO.png?raw=true)
